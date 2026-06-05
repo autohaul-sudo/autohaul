@@ -24,7 +24,7 @@
 
 const EMAILJS_PUBLIC_KEY  = 'DKXzFycXyJiiFwmHU';   // ← from Account > API Keys
 const EMAILJS_SERVICE_ID  = 'service_b75qqt5';   // ← from Email Services
-const EMAILJS_TEMPLATE_ID = '4I2VKHrGpd_9vNviFofgy';  // ← from Email Templates
+const EMAILJS_TEMPLATE_ID = 'template_gvqyw9q';  // ← from Email Templates
 
 /* ── Init EmailJS once DOM is ready ── */
 document.addEventListener('DOMContentLoaded', () => {
