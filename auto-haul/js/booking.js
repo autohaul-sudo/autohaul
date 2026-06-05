@@ -22,9 +22,9 @@
    4. Replace the three constants below with your real IDs.
    ============================================================ */
 
-const EMAILJS_PUBLIC_KEY  = 'DKXzFycXyJiiFwmHU';   // ← from Account > API Keys
+const EMAILJS_PUBLIC_KEY  = 'Yy1UQEjGQH_Hce09V';   // ← from Account > API Keys
 const EMAILJS_SERVICE_ID  = 'service_b75qqt5';   // ← from Email Services
-const EMAILJS_TEMPLATE_ID = 'template_gvqyw9q';  // ← from Email Templates
+const EMAILJS_TEMPLATE_ID = 'template_va7l9eu';  // ← from Email Templates
 
 /* ── Init EmailJS once DOM is ready ── */
 document.addEventListener('DOMContentLoaded', () => {
