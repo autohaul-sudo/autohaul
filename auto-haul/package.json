@@ -1,0 +1,21 @@
+{
+  "name": "auto-haul",
+  "version": "1.0.0",
+  "description": "Auto Haul Sales & Rentals - Premium car rentals and sales website",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.15"
+  },
+  "keywords": [
+    "car-rental",
+    "auto-sales",
+    "static-website"
+  ],
+  "author": "",
+  "license": "ISC"
+}
