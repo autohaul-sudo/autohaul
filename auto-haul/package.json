@@ -1,0 +1,20 @@
+{
+  "name": "auto-haul",
+  "version": "1.0.0",
+  "description": "Premium car rentals and sales across the United States and Canada",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "car-rental",
+    "auto-haul",
+    "vercel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
